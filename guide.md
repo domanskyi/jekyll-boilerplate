@@ -3,9 +3,9 @@
 1. За можилвості встановіть VPN (сервіси дуже швидко блокують ip адреси з України)  
 - [F-Secure](https://www.f-secure.com/en/home/login)  
 - [список альтернативних сервісів](https://t.me/c/1627443142/3)  
-2. [Android/iOS]  
+[Android/iOS]  
 Просто відкрийте і залиште сайт відкритим - [https://stop-russian-desinformation.near.page/](https://stop-russian-desinformation.near.page/) 
-3. [Android]  
+[Android]  
 [Встановіть додаток та слідуйте туторіалу за посиланням](https://telegra.ph/YAk-ddositi-na-telefon%D1%96-02-24)  
 Нові адреси для ddos атаки публікуються в [Telegram каналі](https://t.me/+97Y45he5lOI2ZTky)  
 
