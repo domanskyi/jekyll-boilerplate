@@ -1,7 +1,7 @@
 # Варіант 1 (для власників мобільних телефонів також)
-Просто відкрийте і залиште сайт відкритим - [https://stop-russian-desinformation.near.page/](https://stop-russian-desinformation.near.page/)
-**Впевніться, що у вас достатньо заряду акумулятора та є доступ до зарядки**
-За можливості увімкніть VPN
+Просто відкрийте і залиште сайт відкритим - [https://stop-russian-desinformation.near.page/](https://stop-russian-desinformation.near.page/)  
+**Впевніться, що у вас достатньо заряду акумулятора та є доступ до зарядки**  
+За можливості увімкніть VPN  
 
 # Канали для новин та координації
 - [https://t.me/+97Y45he5lOI2ZTky](https://t.me/+97Y45he5lOI2ZTky)
