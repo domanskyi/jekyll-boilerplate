@@ -1,5 +1,5 @@
-# Варіант 1
-Просто відкрийте і залиште сайт відкритим (**можна і на телефоні**) - [https://stop-russian-desinformation.near.page/](https://stop-russian-desinformation.near.page/)  
+# Варіант 1 (для власників мобільних телефонів також)
+Просто відкрийте і залиште сайт відкритим - [https://stop-russian-desinformation.near.page/](https://stop-russian-desinformation.near.page/)  
 За можливості увімкніть VPN
 
 # Канали для новин та координації
