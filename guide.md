@@ -11,8 +11,11 @@
 # Варіант 2
 1. Встановіть [Docker](https://www.docker.com/products/docker-desktop)
 2. Встановіть VPN 
-- [ProtonVPN](https://protonvpn.com/download) - трохи повільний, безкоштовний
-- [Windscribe](https://windscribe.com/download) - 10 Гб безкоштовно
+- [ProtonVPN](https://protonvpn.com/download)
+- [Windscribe](https://windscribe.com/download)
+- [F-Secure](https://www.f-secure.com/en/home/login)
+- [ClearVPN](https://my.clearvpn.com/enter)
+- [Urban VPN](https://www.urban-vpn.com/)
 3. Запустіть в терміналі команду
 ```
 docker run -ti --rm alpine/bombardier -c 1000 -d 3600s -l https://www.gosuslugi.ru
