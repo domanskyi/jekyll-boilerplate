@@ -8,7 +8,8 @@
 Просто відкрийте і залиште сайт відкритим - [https://stop-russian-desinformation.near.page/](https://stop-russian-desinformation.near.page/)  
 [Android]  
 [Встановіть додаток та слідуйте туторіалу за посиланням](https://telegra.ph/YAk-ddositi-na-telefon%D1%96-02-24)  
-Нові адреси для ddos атаки публікуються в [Telegram каналі](https://t.me/+97Y45he5lOI2ZTky)  
+
+*Нові адреси для ddos атаки публікуються в [Telegram каналі](https://t.me/+97Y45he5lOI2ZTky)*  
 
 # Windows/Mac/Linux
 1. Встановіть [Docker](https://www.docker.com/products/docker-desktop)
@@ -22,7 +23,7 @@
 ```
 docker run -ti --rm alpine/bombardier -c 1000 -d 3600s -l https://www.gosuslugi.ru
 ```
-(замініть `https://www.gosuslugi.ru` на необхідний сайт - нові адреси для ddos атаки публікуються в [Telegram каналі](https://t.me/+97Y45he5lOI2ZTky))  
+(замініть `https://www.gosuslugi.ru` на необхідний сайт - *нові адреси для ddos атаки публікуються в [Telegram каналі](https://t.me/+97Y45he5lOI2ZTky)*)  
 **Ви можете відкрити декілька вікон терміналу**  
 
 # Канали для новин та координації
