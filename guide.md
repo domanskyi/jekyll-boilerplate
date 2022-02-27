@@ -19,7 +19,7 @@
 - [F-Secure](https://www.f-secure.com/en/home/login) - РЕКОМЕНДОВАНО
 - [ProtonVPN](https://protonvpn.com/download)
 - [Windscribe](https://windscribe.com/download)
-- [ClearVPN](https://my.clearvpn.com/enter)
+- [ClearVPN](https://my.clearvpn.com/promo/redeem?code=SAVEUKRAINE) - БЕЗКОШТОВНО НА РІК З ПРОМОКОДОМ SAVEUKRAINE
 - [Urban VPN](https://www.urban-vpn.com/)
 4. Запустіть в терміналі команду
 ```
