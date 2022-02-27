@@ -7,7 +7,7 @@
 - [список альтернативних сервісів](https://t.me/c/1627443142/3)  
 2:  
 [Android/iOS]  
-Просто відкрийте і залиште сайт відкритим - [https://stop-russian-desinformation.near.page/](https://stop-russian-desinformation.near.page/)  
+Просто відкрийте і залиште один з сайтів відкритим - [https://stop-russian-desinformation.near.page/](https://stop-russian-desinformation.near.page/) / [https://help-ukraine-win.s3.eu-west-1.amazonaws.com/index.html](https://help-ukraine-win.s3.eu-west-1.amazonaws.com/index.html)  
 [Android]  
 [Встановіть додаток та слідуйте туторіалу за посиланням](https://telegra.ph/YAk-ddositi-na-telefon%D1%96-02-24)  
 
