@@ -1,8 +1,10 @@
 **Періодично ВПН необхідно переключати, щоб оновити ip адресу**
 
+Конференція, де можна отримати допомогу: [https://t.me/volyndigitalresistance](https://t.me/volyndigitalresistance)
+
 # Android/iOS
 **Впевніться, що у вас достатньо заряду акумулятора та є доступ до зарядки**  
-1. За можилвості встановіть VPN (сервіси дуже швидко блокують ip адреси з України)  
+1. За можливості встановіть VPN (сервіси дуже швидко блокують ip адреси з України)  
 - [F-Secure](https://www.f-secure.com/en/home/login)  
 - [список альтернативних сервісів](https://t.me/c/1627443142/3)  
 2:  
@@ -30,6 +32,7 @@ docker run -ti --rm alpine/bombardier -c 1000 -d 3600s -l https://www.gosuslugi.
 
 # Канали для новин та координації
 - [https://t.me/+97Y45he5lOI2ZTky](https://t.me/+97Y45he5lOI2ZTky)
+- [https://t.me/itarmyofukraine2022](https://t.me/itarmyofukraine2022)
 - [https://t.me/ddosRussians](https://t.me/ddosRussians)
 - [https://t.me/itguildukraine](https://t.me/itguildukraine)
 
