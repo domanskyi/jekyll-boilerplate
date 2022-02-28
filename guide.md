@@ -56,6 +56,7 @@ done
 - [Туторіал по DDoS](https://tarahtino.notion.site/tarahtino/DDoS-1505b74f6f8443768dc47e0f4d2ee8b2)
 
 ## Ресурси для атаки (краще слідкувати за апдейтами в Telegram)
+[Russian Sites Hit List](https://docs.google.com/spreadsheets/d/1kdB_8Em474bq0C-p4R5Zq8uOwq-CBKzzP-CiN6-NHWg/edit#gid=0)
 `http://duma.gov.ru/` `http://president-sovet.ru/` `https://sovetnational.ru/` `https://www.gosuslugi.ru/ru/` `https://zakupki.gov.ru/epz/main/public/home.html` `https://gossluzhba.gov.ru/` `http://defence.council.gov.ru/` `http://budget.council.gov.ru/` `http://www.kremlin.ru/` `https://government.ru/` `http://www.scrf.gov.ru/` `http://www.ksrf.ru/ru/Pages/default.aspx` `http://www.vsrf.ru/` `http://premier.gov.ru/events/` `https://www.mchs.gov.ru/` `https://minjust.gov.ru/ru/` `http://www.fsb.ru/` `https://rosguard.gov.ru/` `https://customs.gov.ru/` `https://udprf.ru/` `http://favt.gov.ru/`
 
 [Contribute](https://github.com/domanskyi/xsquad)
